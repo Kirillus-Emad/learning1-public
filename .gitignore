@@ -1,6 +1,9 @@
 *.log
 !vip.log
-node_packs/*
 text.txt
 !node_packs/pk1.js
 !node_packs/info/
+node_packs/*
+!node_packs/imp/
+node_packs/imp/*
+!node_packs/imp/yes.txt
