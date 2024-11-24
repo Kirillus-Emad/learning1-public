@@ -3,3 +3,4 @@
 node_packs/*
 text.txt
 !node_packs/pk1.js
+!node_packs/info/
